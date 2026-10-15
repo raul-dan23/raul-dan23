@@ -8,6 +8,6 @@ Right now I'm working through the CCNA and picking up cloud/DevOps basics on the
 
 **Stack I use most:** Java / Spring Boot, React, Next.js, MySQL / PostgreSQL, Docker, Linux.
 
-Awana Betania: [awanabetania.eu](https://awanabetania.eu) · [source](https://github.com/raul-dan23/awanabetania)
+Awana Betania: [awanabetania.eu](https://awana.betania-tm.ro) · [source](https://github.com/raul-dan23/awanabetania)
 
 [LinkedIn](https://www.linkedin.com/in/raul-macovei-b56a38332) · rlmacovei@gmail.com
